@@ -1,5 +1,5 @@
 # Python program for Bellman-Ford's single source
-
+#https://habr.com/ru/company/otus/blog/484382/
 class Graph:
 
     def __init__(self, vertices):
