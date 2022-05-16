@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=MCfjc_UIP1M&list=PLA0M1Bcd0w8yF0PO0eJ9v8VlsYEowmsnJ&index=3
+
 import math
 
 def get_link_v(v,D):
